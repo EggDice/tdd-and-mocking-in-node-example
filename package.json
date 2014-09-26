@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/EggDice/tdd-and-mocking-in-node-example/issues"
   },
-  "homepage": "https://github.com/EggDice/tdd-and-mocking-in-node-example"
+  "homepage": "https://github.com/EggDice/tdd-and-mocking-in-node-example",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "express": "^4.9.5",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "supertest": "^0.13.0"
+  }
 }
