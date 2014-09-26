@@ -1,0 +1,28 @@
+{
+  "name": "tdd-and-mocking-in-node-example",
+  "version": "1.0.0",
+  "description": "Example repo for Nodebp meetup talk September 2014: TDD and Mocking in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EggDice/tdd-and-mocking-in-node-example.git"
+  },
+  "keywords": [
+    "talk",
+    "testing",
+    "mock",
+    "dummy",
+    "stub",
+    "fake",
+    "spy"
+  ],
+  "author": "Tamas Kokeny <tamas.kokeny.87@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EggDice/tdd-and-mocking-in-node-example/issues"
+  },
+  "homepage": "https://github.com/EggDice/tdd-and-mocking-in-node-example"
+}
