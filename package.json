@@ -28,6 +28,7 @@
   "dependencies": {
     "chai": "^1.9.1",
     "express": "^4.9.5",
+    "express-session": "^1.8.2",
     "mocha": "^1.21.4",
     "sinon": "^1.10.3",
     "supertest": "^0.13.0"

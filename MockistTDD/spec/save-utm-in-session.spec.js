@@ -15,7 +15,7 @@ describe('saveUtmInSession', function() {
   it('should rewrite utm_medium to session', function() {
     reqMock.expects('param').once().withArgs('utm_medium');
     saveUtmInSession(req, null, nextSpy);
-    expect(nextSpy.calledOnce).equal(true);
+    expect(nextSpy.calledOnce).to.equal(true);
     reqMock.verify();
   });
 });
